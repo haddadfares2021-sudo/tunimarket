@@ -1,0 +1,6 @@
+{
+  "name": "TuniMarket",
+  "description": "Tunisian online price comparison & store aggregator for tech, laptops, smartphones and electronics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
